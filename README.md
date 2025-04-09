@@ -129,7 +129,12 @@ Here’s how you can present **📊 Model Results** for **training and testing d
 
 ## 📈 Model Results
 
-Here’s a **📊 Results** section you can include in your README:
+### Existing Model
+![image](https://github.com/user-attachments/assets/18299744-1512-4b2c-bc70-58cadc336165)
+
+### Proposed Model( System Flow)
+![image](https://github.com/user-attachments/assets/a4f8f528-844e-467d-977b-cee664c60e18)
+
 
 ---
 
