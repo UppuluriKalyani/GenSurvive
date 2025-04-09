@@ -123,17 +123,13 @@ Cancer-Subtype-Discovery/
 | ❌ **Invalid Input Format** | File with strings instead of numeric gene values (e.g., `"abc"`, `"xyz"`) | ⚠️ Error: Invalid file structure or non-numeric values detected |
 | ✅ **Multiple Patients** | File with 5 rows of valid patient data | Outputs predictions for all 5 patients with respective clusters, subtypes, and survival estimates |
 
-Here’s how you can present **📊 Model Results** for **training and testing datasets** using **images** in a table format within your README:
-
 ---
 
-## 📈 Model Results
+## 📈 Models
 
-### Existing Model
-![image](https://github.com/user-attachments/assets/18299744-1512-4b2c-bc70-58cadc336165)
-
-### Proposed Model( System Flow)
-![image](https://github.com/user-attachments/assets/a4f8f528-844e-467d-977b-cee664c60e18)
+| 🧠 Existing Model | 🚀 Proposed Model (System Flow) |
+|------------------|---------------------------------|
+| ![Existing Model](https://github.com/user-attachments/assets/18299744-1512-4b2c-bc70-58cadc336165) | ![Proposed Model](https://github.com/user-attachments/assets/a4f8f528-844e-467d-977b-cee664c60e18) |
 
 
 ---
